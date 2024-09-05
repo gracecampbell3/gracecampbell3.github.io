@@ -1,0 +1,13 @@
+body{
+    background-color:blueviolet;
+}
+p{
+    font-family: fantasy;
+    font-size: 2em;
+}
+a:visited{
+    color:bisque;
+}
+a:hover{
+    font-size:1.5em;
+}
